@@ -1,1 +1,1 @@
-# gen-ai
+just exploring some random stuff
