@@ -5,8 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+
 # virtual environments
 genvenv/
+
 # Distribution / packaging
 .Python
 build/
