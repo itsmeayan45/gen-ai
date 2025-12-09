@@ -1,3 +1,4 @@
+# by the way , i am GORIB , so i use opensource model to implement this , using openrouter api key to access free models
 import streamlit as st
 from langchain_classic.chains.history_aware_retriever import create_history_aware_retriever
 from langchain_classic.chains.retrieval import create_retrieval_chain
