@@ -10,3 +10,5 @@ langchain
 faiss-cpu
 langchain-chroma
 pypdf
+arxiv
+wikipedia
